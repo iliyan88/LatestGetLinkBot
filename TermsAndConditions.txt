@@ -1,0 +1,22 @@
+Terms and Conditions
+
+Terms of Service
+The following document outlines the terms of use of GetLinked. Before using GetLinked, you are required to read, understand, and agree to these terms.
+
+Messenger Platforms
+
+We develop GetLinked to send you the best venue recommendations directly to your Facebook Messenger, Skype or Telegram chat. We will develop more features in the future. At times things can go wrong and the service may be interrupted. Unlikely, but sometimes things can go really wrong. We are not liable if something goes really wrong.
+
+To use GetLinked you should have a Facebook Messenger, Skype or Telegram account.
+
+GetLinked is provided for free.
+
+We may stop providing services at any time. You can stop using our bot at any time as well. You may need to visit this page regularly to see if these terms are changed. New terms may be published on this page without any additional notice.
+
+Data
+
+Your data is your data. We will not collect this data and hence will not sell it to anyone without your permission.
+
+People who use GetLinked must have the consent of the people whose data (i.e. images, voice, text) this bot will process and we adhere to all applicable laws and regulations.
+
+This Terms of Service is effective as of 06/07/2018

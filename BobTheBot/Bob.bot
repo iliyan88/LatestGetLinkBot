@@ -1,0 +1,31 @@
+{
+    "name": "FunctionalBobTheBot",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "4b7ccde1-9562-461d-9465-49e03f116243",
+            "id": "FunctionalBobTheBot",
+            "type": "endpoint",
+            "appPassword": "yivkNBQZA039xhaGU53#|*|",
+            "endpoint": "https://functionalbobthebot.azurewebsites.net/api/messages?code=luXUA7SQP7r7dja3KopRuAWItuHBTYCpvkgsNGImj/5CoyYUDTeJXA==",
+            "name": "FunctionalBobTheBot"
+        },
+        {
+            "appId": "",
+            "id": "FunctionalBobTheBot",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:1738/api/messages/",
+            "name": "FunctionalBobTheBotLocal"
+        },
+        {
+            "appId": "",
+            "id": "acd95610-899f-11e8-97d4-1f6b23b1a5f7",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3979/api/messages",
+            "name": "http://localhost:3979/"
+        }
+    ]
+}
